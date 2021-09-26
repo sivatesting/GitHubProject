@@ -9,7 +9,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>org.seleniumhq.selenium</groupId>
+			<groupId>org.seleniumhq.selenium123</groupId>
 			<artifactId>selenium-java</artifactId>
 			<version>3.9.1</version>
 		</dependency>
